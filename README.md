@@ -23,8 +23,8 @@ A beginning solution to the QR component challenge on www.frontendmentor.io ;  s
 
 ### Links
 
-- Solution URL: (https://github.com/mishtickle/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/mishtickle/qr-code-component-main
+- Live Site URL: https://mishtickle.github.io/qr-code-component-main/
 
 ## My process
 
